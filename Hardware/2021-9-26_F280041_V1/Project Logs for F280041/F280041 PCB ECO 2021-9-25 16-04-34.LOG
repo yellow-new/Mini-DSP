@@ -1,0 +1,108 @@
+Removed Pin From Net: NetName=REST Pin=C1-1
+Removed Pin From Net: NetName=REST Pin=C2-2
+Removed Pin From Net: NetName=REST Pin=C3-1
+Removed Pin From Net: NetName=REST Pin=C4-1
+Removed Pin From Net: NetName=REST Pin=C5-1
+Removed Pin From Net: NetName=REST Pin=C6-1
+Removed Pin From Net: NetName=REST Pin=C7-2
+Removed Pin From Net: NetName=REST Pin=C8-2
+Removed Pin From Net: NetName=REST Pin=C9-2
+Removed Pin From Net: NetName=REST Pin=C10-2
+Removed Pin From Net: NetName=REST Pin=C12-2
+Removed Pin From Net: NetName=REST Pin=C13-1
+Removed Pin From Net: NetName=REST Pin=E2-1
+Removed Pin From Net: NetName=REST Pin=J1-3
+Removed Pin From Net: NetName=REST Pin=J1-4
+Removed Pin From Net: NetName=REST Pin=JP1-5
+Removed Pin From Net: NetName=REST Pin=JP?-1
+Removed Pin From Net: NetName=REST Pin=JP?-3
+Removed Pin From Net: NetName=A0 Pin=JP?-7
+Removed Pin From Net: NetName=PGA2 Pin=JP?-8
+Removed Pin From Net: NetName=A4 Pin=JP?-9
+Removed Pin From Net: NetName=B4 Pin=JP?-10
+Removed Pin From Net: NetName=A10 Pin=JP?-11
+Removed Pin From Net: NetName=GPIO12 Pin=JP?-13
+Removed Pin From Net: NetName=GPIO33 Pin=JP?-14
+Removed Pin From Net: NetName=GPIO16 Pin=JP?-15
+Removed Pin From Net: NetName=GPIO17 Pin=JP?-16
+Removed Pin From Net: NetName=GPIO24 Pin=JP?-17
+Removed Pin From Net: NetName=REST Pin=R1-1
+Removed Pin From Net: NetName=REST Pin=R2-1
+Removed Pin From Net: NetName=REST Pin=R3-1
+Removed Pin From Net: NetName=REST Pin=R4-1
+Removed Pin From Net: NetName=REST Pin=R5-1
+Removed Pin From Net: NetName=REST Pin=R7-1
+Removed Pin From Net: NetName=REST Pin=R7-2
+Removed Pin From Net: NetName=REST Pin=R9-2
+Removed Pin From Net: NetName=REST Pin=R10-1
+Removed Pin From Net: NetName=REST Pin=R10-2
+Removed Pin From Net: NetName=REST Pin=SW1-1
+Removed Pin From Net: NetName=REST Pin=U1-4
+Removed Pin From Net: NetName=REST Pin=U1-5
+Removed Pin From Net: NetName=REST Pin=U1-14
+Removed Pin From Net: NetName=REST Pin=U1-20
+Removed Pin From Net: NetName=REST Pin=U1-24
+Removed Pin From Net: NetName=REST Pin=U1-25
+Removed Pin From Net: NetName=REST Pin=U1-39
+Removed Pin From Net: NetName=REST Pin=U1-40
+Removed Pin From Net: NetName=REST Pin=U1-41
+Removed Pin From Net: NetName=REST Pin=U1-48
+Removed Pin From Net: NetName=REST Pin=U1-53
+Removed Pin From Net: NetName=REST Pin=U1-54
+Removed Pin From Net: NetName=REST Pin=V1-4
+Change Net Name : Old Net Name=C0 New Net Name=PAGA1
+Change Net Name : Old Net Name=C1 New Net Name=PAGA2
+Change Net Name : Old Net Name=REST New Net Name=GND
+Added Pin To Net: NetName=C0 Pin=U1-10
+Added Net: Name=C0
+Added Pin To Net: NetName=C1 Pin=U1-16
+Added Net: Name=C1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-14
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C4-1
+Added Pin To Net: NetName=NetC3_1 Pin=C5-1
+Added Pin To Net: NetName=NetC3_1 Pin=C6-1
+Added Pin To Net: NetName=NetC3_1 Pin=U1-5
+Added Pin To Net: NetName=NetC3_1 Pin=U1-24
+Added Pin To Net: NetName=NetC3_1 Pin=U1-41
+Added Pin To Net: NetName=NetC3_1 Pin=U1-53
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=R10-2
+Added Pin To Net: NetName=NetC10_2 Pin=U1-20
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=U1-39
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=REST Pin=C2-2
+Added Pin To Net: NetName=REST Pin=R7-1
+Added Pin To Net: NetName=REST Pin=SW1-1
+Added Pin To Net: NetName=REST Pin=U1-4
+Added Net: Name=REST
+Added Pin To Net: NetName=VDD3.3 Pin=C7-2
+Added Pin To Net: NetName=VDD3.3 Pin=C8-2
+Added Pin To Net: NetName=VDD3.3 Pin=C9-2
+Added Pin To Net: NetName=VDD3.3 Pin=C12-2
+Added Pin To Net: NetName=VDD3.3 Pin=C13-1
+Added Pin To Net: NetName=VDD3.3 Pin=E2-1
+Added Pin To Net: NetName=VDD3.3 Pin=J1-4
+Added Pin To Net: NetName=VDD3.3 Pin=JP1-5
+Added Pin To Net: NetName=VDD3.3 Pin=JP?-1
+Added Pin To Net: NetName=VDD3.3 Pin=JP?-3
+Added Pin To Net: NetName=VDD3.3 Pin=R1-1
+Added Pin To Net: NetName=VDD3.3 Pin=R2-1
+Added Pin To Net: NetName=VDD3.3 Pin=R3-1
+Added Pin To Net: NetName=VDD3.3 Pin=R4-1
+Added Pin To Net: NetName=VDD3.3 Pin=R5-1
+Added Pin To Net: NetName=VDD3.3 Pin=R7-2
+Added Pin To Net: NetName=VDD3.3 Pin=R9-2
+Added Pin To Net: NetName=VDD3.3 Pin=R10-1
+Added Pin To Net: NetName=VDD3.3 Pin=U1-25
+Added Pin To Net: NetName=VDD3.3 Pin=U1-40
+Added Pin To Net: NetName=VDD3.3 Pin=U1-48
+Added Pin To Net: NetName=VDD3.3 Pin=U1-54
+Added Pin To Net: NetName=VDD3.3 Pin=V1-4
+Added Net: Name=VDD3.3
+Added Member To Class: ClassName=F280041 Member=Component JP? Header 2X11

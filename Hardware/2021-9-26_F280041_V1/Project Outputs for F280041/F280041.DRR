@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: F280041.PcbDoc   2021/9/26  14:56:05
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : F280041-RoundHoles.TXT
+ASCII SlotHoles File : F280041-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             21        PTH        0.90inch (22.91mm)
+T2      12mil (0.3mm)                                             Round             5         PTH        0.79inch (19.98mm)
+T3      12mil (0.305mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T4      16mil (0.4mm)                                             Round             22        PTH        3.64inch (92.58mm)
+T5      20mil (0.5mm)                                             Round             2         PTH        0.19inch (4.85mm)
+T6      20mil (0.5mm)                                             Slot              2         PTH        0.62inch (15.72mm)
+T7      35mil (0.9mm)                                             Round             58        PTH        6.41inch (162.80mm)
+T8      79mil (2mm)                                               Round             4         PTH        4.17inch (106.02mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              115
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=VDD3.3 Pin=JP3-1
+Removed Pin From Net: NetName=GND Pin=JP3-2
+Removed Pin From Net: NetName=VDD3.3 Pin=JP3-3
+Removed Pin From Net: NetName=GND Pin=JP3-4
+Removed Pin From Net: NetName=A2 Pin=JP3-6
+Removed Pin From Net: NetName=A1 Pin=JP3-7
+Removed Pin From Net: NetName=C2 Pin=JP3-8
+Removed Pin From Net: NetName=C1 Pin=JP3-9
+Removed Pin From Net: NetName=A0 Pin=JP3-10
+Removed Pin From Net: NetName=A4 Pin=JP3-11
+Removed Pin From Net: NetName=C3 Pin=JP3-12
+Removed Pin From Net: NetName=A10 Pin=JP3-13
+Removed Pin From Net: NetName=B4 Pin=JP3-14
+Removed Pin From Net: NetName=GPIO12 Pin=JP3-15
+Removed Pin From Net: NetName=GPIO13 Pin=JP3-16
+Removed Pin From Net: NetName=GPIO33 Pin=JP3-17
+Removed Pin From Net: NetName=GPIO11 Pin=JP3-18
+Removed Pin From Net: NetName=GPIO17 Pin=JP3-19
+Removed Pin From Net: NetName=GPIO16 Pin=JP3-20
+Removed Pin From Net: NetName=GND Pin=JP3-21
+Removed Pin From Net: NetName=GPIO24 Pin=JP3-22
+Removed Member From Class: ClassName=F280041 Member=JP3
+Added Component: Designator=JP?(HDR2.54-LI-2x11P)
+Add component (AddParameter): Name = "BOM名称"; Value = "11*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD3.3 Pin=JP?-1
+Added Pin To Net: NetName=GND Pin=JP?-2
+Added Pin To Net: NetName=VDD3.3 Pin=JP?-3
+Added Pin To Net: NetName=GND Pin=JP?-4
+Added Pin To Net: NetName=C0 Pin=JP?-5
+Added Pin To Net: NetName=A2 Pin=JP?-6
+Added Pin To Net: NetName=A1 Pin=JP?-7
+Added Pin To Net: NetName=C2 Pin=JP?-8
+Added Pin To Net: NetName=C1 Pin=JP?-9
+Added Pin To Net: NetName=A0 Pin=JP?-10
+Added Pin To Net: NetName=A4 Pin=JP?-11
+Added Pin To Net: NetName=C3 Pin=JP?-12
+Added Pin To Net: NetName=A10 Pin=JP?-13
+Added Pin To Net: NetName=B4 Pin=JP?-14
+Added Pin To Net: NetName=GPIO12 Pin=JP?-15
+Added Pin To Net: NetName=GPIO13 Pin=JP?-16
+Added Pin To Net: NetName=GPIO33 Pin=JP?-17
+Added Pin To Net: NetName=GPIO11 Pin=JP?-18
+Added Pin To Net: NetName=GPIO17 Pin=JP?-19
+Added Pin To Net: NetName=GPIO16 Pin=JP?-20
+Added Pin To Net: NetName=GND Pin=JP?-21
+Added Pin To Net: NetName=GPIO24 Pin=JP?-22
+Added Member To Class: ClassName=F280041 Member=Component JP? Header 2X11
+Added Room: Name=F280041

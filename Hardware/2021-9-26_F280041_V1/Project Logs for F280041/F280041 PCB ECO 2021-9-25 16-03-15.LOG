@@ -1,0 +1,93 @@
+Added Component: Designator=JP?(HDR2.54-LI-2x11P)
+Add component (AddParameter): Name = "BOM名称"; Value = "11*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(HDR2.54-LI-2x11P)
+Add component (AddParameter): Name = "BOM名称"; Value = "11*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=E2-1
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=JP1-5
+Added Pin To Net: NetName=+5 Pin=JP?-1
+Added Pin To Net: NetName=GND Pin=JP?-1
+Added Pin To Net: NetName=GND Pin=JP?-2
+Added Pin To Net: NetName=GND Pin=JP?-2
+Added Pin To Net: NetName=GND Pin=JP?-3
+Added Pin To Net: NetName=GPIO32 Pin=JP?-3
+Added Pin To Net: NetName=GND Pin=JP?-4
+Added Pin To Net: NetName=GPIO18 Pin=JP?-4
+Added Pin To Net: NetName=GPIO8 Pin=JP?-5
+Added Pin To Net: NetName=A1 Pin=JP?-6
+Added Pin To Net: NetName=GPIO4 Pin=JP?-6
+Added Pin To Net: NetName=A0 Pin=JP?-7
+Added Pin To Net: NetName=GPIO3 Pin=JP?-7
+Added Pin To Net: NetName=GPIO2 Pin=JP?-8
+Added Pin To Net: NetName=A4 Pin=JP?-9
+Added Pin To Net: NetName=GPIO1 Pin=JP?-9
+Added Pin To Net: NetName=B4 Pin=JP?-10
+Added Pin To Net: NetName=GPIO0 Pin=JP?-10
+Added Pin To Net: NetName=A10 Pin=JP?-11
+Added Pin To Net: NetName=GPIO23 Pin=JP?-11
+Added Pin To Net: NetName=GPIO22 Pin=JP?-12
+Added Pin To Net: NetName=GPIO7 Pin=JP?-13
+Added Pin To Net: NetName=GPIO12 Pin=JP?-13
+Added Pin To Net: NetName=GPIO5 Pin=JP?-14
+Added Pin To Net: NetName=GPIO33 Pin=JP?-14
+Added Pin To Net: NetName=GPIO9 Pin=JP?-15
+Added Pin To Net: NetName=GPIO16 Pin=JP?-15
+Added Pin To Net: NetName=GPIO11 Pin=JP?-16
+Added Pin To Net: NetName=GPIO17 Pin=JP?-16
+Added Pin To Net: NetName=GPIO6 Pin=JP?-17
+Added Pin To Net: NetName=GPIO24 Pin=JP?-17
+Added Pin To Net: NetName=GPIO29 Pin=JP?-18
+Added Pin To Net: NetName=GPIO28 Pin=JP?-19
+Added Pin To Net: NetName=B2 Pin=JP?-20
+Added Pin To Net: NetName=B3 Pin=JP?-21
+Added Pin To Net: NetName=A2 Pin=JP?-22
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=C0 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=C1 Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-24
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Pin To Net: NetName=GND Pin=U1-39
+Added Pin To Net: NetName=GND Pin=U1-40
+Added Pin To Net: NetName=GND Pin=U1-41
+Added Pin To Net: NetName=GND Pin=U1-48
+Added Pin To Net: NetName=GND Pin=U1-53
+Added Pin To Net: NetName=GND Pin=U1-54
+Added Pin To Net: NetName=GND Pin=V1-4
+Change Net Name : Old Net Name=GND New Net Name=REST
+Added Pin To Net: NetName=PGA2 Pin=JP?-5
+Added Pin To Net: NetName=PGA2 Pin=JP?-8
+Added Net: Name=PGA2
+Added Member To Class: ClassName=F280041 Member=Component JP? Header 2X11
+Added Member To Class: ClassName=F280041 Member=Component JP? Header 2X11
