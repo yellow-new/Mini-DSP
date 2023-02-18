@@ -5,7 +5,7 @@
 
 ## 2. 原理图以及PCB
 
-![Image text](https://github.com/yellow-new/TMS320F280041-/blob/master/Untitled1.png)
+![Image text](https://github.com/yellow-new/TMS320F280041-/blob/master/Untitled%201.png)
 
 ![Image text](https://github.com/yellow-new/TMS320F280041-/blob/master/Untitled%202.png)
 
